@@ -37,7 +37,7 @@ module.exports = {
     ' Zoe - Xd ; Badan - Ser ;https://files.catbox.moe/zwnnx6.png',
   STICKER_PACKDATA: process.env.STICKER_PACKDATA || ' Zoe - Xd ; Badan - Ser ',
   SUDO: process.env.SUDO || "919747257996",
-  SESSION: process.env.SESSION || "Zoe-XD^1iablh_badan",
+  SESSION: process.env.SESSION || "Zoe-XD^vd7hvn_badan",
   LANGUAGE: process.env.LANGUAGE || "english",
   AUTOCLEAN_MESSAGES: {
     enabled: false,
